@@ -1,0 +1,20 @@
+numpy==1.16.*
+matplotlib==3.*
+seaborn==0.8.1
+pandas
+sklearn
+pydotplus
+nbgitpuller
+graphviz
+pydot
+pydot_ng
+mahotas
+nltk
+gensim
+pydataset
+xlrd >= 1.0.0
+imblearn
+keras
+tensorflow
+gym
+pyglet==1.5.0
